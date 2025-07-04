@@ -393,14 +393,14 @@ For support, email your-email@example.com or create an issue in the repository.
 - MongoDB team for the excellent database
 - AWS and Google Cloud for cloud services
 - All open-source contributors
-```
+
 
 ## Frontend README
 
-```md project="Frontend README" file="README.md" type="markdown"
+
 # Expense Tracker Frontend
 
-A modern, responsive React application for personal expense tracking with real-time charts, budget management, and intuitive user interface.
+A modern, responsive React application for personal expense tracking with real-time charts, budget management, and an intuitive user interface.
 
 ## 🚀 Features
 
